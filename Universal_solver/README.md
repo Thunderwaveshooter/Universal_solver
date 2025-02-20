@@ -1,5 +1,4 @@
-universal_solver/
-│── backend/                 # Python FastAPI Backend
+This version aims to emphasize the purpose and significance of each component compellingly.backend/                 # Python FastAPI Backend
 │   ├── main.py              # API entry point
 │   ├── solver.py            # Logic for solving equations
 │   ├── ocr.py               # OCR image processing
@@ -10,7 +9,7 @@ universal_solver/
 │   ├── src/
 │   │   ├── components/      # Reusable UI Components
 │   │   ├── pages/           # Main app pages
-│   │   ├── services/        # API calls to backend
+│   │   ├── services/        # API calls to the backend
 │   │   ├── App.js           # Main React file
 │   │   ├── index.js         # React entry point
 │   ├── package.json         # Dependencies
